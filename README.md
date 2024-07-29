@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darkmaksor
+- 👋 Hi, I’m @maxsor
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on ...
